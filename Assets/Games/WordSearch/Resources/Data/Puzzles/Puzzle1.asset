@@ -1,0 +1,204 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70d36b7aa7083d54f89667dd1c210e40, type: 3}
+  m_Name: Puzzle1
+  m_EditorClassIdentifier: 
+  timeInSeconds: 0
+  Columns: 15
+  Rows: 10
+  Board:
+  - size: 10
+    row:
+    - S
+    - F
+    - M
+    - F
+    - U
+    - G
+    - D
+    - L
+    - X
+    - A
+  - size: 10
+    row:
+    - Q
+    - H
+    - M
+    - T
+    - Q
+    - L
+    - N
+    - R
+    - H
+    - S
+  - size: 10
+    row:
+    - P
+    - X
+    - J
+    - A
+    - T
+    - K
+    - Q
+    - E
+    - B
+    - S
+  - size: 10
+    row:
+    - E
+    - P
+    - W
+    - I
+    - S
+    - T
+    - Z
+    - W
+    - J
+    - I
+  - size: 10
+    row:
+    - Q
+    - Z
+    - S
+    - G
+    - Z
+    - O
+    - Q
+    - A
+    - E
+    - G
+  - size: 10
+    row:
+    - N
+    - R
+    - D
+    - D
+    - P
+    - T
+    - N
+    - M
+    - N
+    - N
+  - size: 10
+    row:
+    - T
+    - B
+    - H
+    - R
+    - X
+    - D
+    - D
+    - U
+    - Q
+    - M
+  - size: 10
+    row:
+    - A
+    - E
+    - D
+    - U
+    - C
+    - A
+    - T
+    - E
+    - A
+    - E
+  - size: 10
+    row:
+    - L
+    - C
+    - H
+    - W
+    - P
+    - K
+    - F
+    - L
+    - A
+    - N
+  - size: 10
+    row:
+    - S
+    - I
+    - J
+    - B
+    - N
+    - F
+    - M
+    - N
+    - X
+    - T
+  - size: 10
+    row:
+    - T
+    - U
+    - R
+    - K
+    - X
+    - W
+    - X
+    - G
+    - K
+    - Y
+  - size: 10
+    row:
+    - R
+    - W
+    - A
+    - L
+    - M
+    - I
+    - D
+    - H
+    - V
+    - M
+  - size: 10
+    row:
+    - E
+    - I
+    - R
+    - M
+    - O
+    - E
+    - X
+    - W
+    - K
+    - H
+  - size: 10
+    row:
+    - S
+    - U
+    - K
+    - U
+    - Z
+    - K
+    - E
+    - Y
+    - A
+    - X
+  - size: 10
+    row:
+    - S
+    - U
+    - S
+    - R
+    - V
+    - K
+    - N
+    - S
+    - L
+    - J
+  SearchWords:
+  - Word: MASON
+  - Word: EDUCATE
+  - Word: ASSIGNMENT
+  - Word: ANXIOUS
+  - Word: STRESS

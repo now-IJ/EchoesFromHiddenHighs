@@ -1,0 +1,295 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70d36b7aa7083d54f89667dd1c210e40, type: 3}
+  m_Name: Puzzle2
+  m_EditorClassIdentifier: 
+  timeInSeconds: 0
+  Columns: 18
+  Rows: 13
+  Board:
+  - size: 13
+    row:
+    - K
+    - R
+    - F
+    - P
+    - O
+    - B
+    - X
+    - I
+    - G
+    - N
+    - Q
+    - M
+    - H
+  - size: 13
+    row:
+    - D
+    - Y
+    - O
+    - C
+    - S
+    - C
+    - D
+    - H
+    - K
+    - M
+    - U
+    - M
+    - S
+  - size: 13
+    row:
+    - E
+    - E
+    - T
+    - K
+    - H
+    - Q
+    - V
+    - O
+    - N
+    - O
+    - N
+    - N
+    - G
+  - size: 13
+    row:
+    - R
+    - A
+    - F
+    - V
+    - W
+    - F
+    - R
+    - A
+    - Y
+    - Z
+    - I
+    - X
+    - Z
+  - size: 13
+    row:
+    - O
+    - H
+    - M
+    - M
+    - T
+    - E
+    - K
+    - G
+    - E
+    - T
+    - V
+    - X
+    - A
+  - size: 13
+    row:
+    - A
+    - P
+    - I
+    - R
+    - A
+    - Z
+    - J
+    - K
+    - Z
+    - E
+    - E
+    - V
+    - W
+  - size: 13
+    row:
+    - S
+    - O
+    - R
+    - T
+    - C
+    - O
+    - T
+    - U
+    - M
+    - L
+    - R
+    - B
+    - L
+  - size: 13
+    row:
+    - H
+    - Q
+    - Q
+    - E
+    - Q
+    - Q
+    - X
+    - R
+    - F
+    - J
+    - S
+    - S
+    - W
+  - size: 13
+    row:
+    - O
+    - I
+    - I
+    - Q
+    - S
+    - A
+    - H
+    - Z
+    - H
+    - G
+    - I
+    - L
+    - G
+  - size: 13
+    row:
+    - M
+    - B
+    - L
+    - A
+    - I
+    - S
+    - A
+    - Q
+    - G
+    - R
+    - T
+    - L
+    - X
+  - size: 13
+    row:
+    - E
+    - V
+    - W
+    - Y
+    - Z
+    - Z
+    - U
+    - Y
+    - O
+    - I
+    - Y
+    - K
+    - U
+  - size: 13
+    row:
+    - W
+    - C
+    - A
+    - Y
+    - O
+    - A
+    - X
+    - R
+    - J
+    - K
+    - M
+    - P
+    - R
+  - size: 13
+    row:
+    - O
+    - E
+    - C
+    - J
+    - B
+    - S
+    - C
+    - D
+    - E
+    - E
+    - L
+    - B
+    - M
+  - size: 13
+    row:
+    - R
+    - B
+    - V
+    - H
+    - M
+    - A
+    - B
+    - A
+    - C
+    - S
+    - C
+    - V
+    - V
+  - size: 13
+    row:
+    - K
+    - G
+    - R
+    - A
+    - D
+    - E
+    - S
+    - Z
+    - D
+    - C
+    - G
+    - F
+    - I
+  - size: 13
+    row:
+    - M
+    - W
+    - Y
+    - Q
+    - W
+    - U
+    - X
+    - V
+    - H
+    - E
+    - I
+    - D
+    - S
+  - size: 13
+    row:
+    - M
+    - R
+    - E
+    - I
+    - J
+    - Q
+    - Y
+    - V
+    - F
+    - R
+    - M
+    - L
+    - D
+  - size: 13
+    row:
+    - G
+    - G
+    - H
+    - N
+    - B
+    - Y
+    - N
+    - F
+    - Y
+    - R
+    - G
+    - Y
+    - I
+  SearchWords:
+  - Word: KOREA
+  - Word: UNIVERSITY
+  - Word: GRADES
+  - Word: ACADEMY
+  - Word: HOMEWORK
+  - Word: PRESSURE

@@ -1,0 +1,1990 @@
+fileFormatVersion: 2
+guid: 2d51022d137401b46ba88baaf46782e5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9212231021902250701
+    second: Ending credit_0
+  - first:
+      213: -1865947974846119761
+    second: Ending credit_1
+  - first:
+      213: 5884736350187660498
+    second: Ending credit_2
+  - first:
+      213: 5251802685502674786
+    second: Ending credit_3
+  - first:
+      213: -6288058368842732303
+    second: Ending credit_4
+  - first:
+      213: -3646800828829451165
+    second: Ending credit_5
+  - first:
+      213: -1554493719814892697
+    second: Ending credit_6
+  - first:
+      213: 6202658313318088439
+    second: Ending credit_7
+  - first:
+      213: -7306460058179848947
+    second: Ending credit_8
+  - first:
+      213: 2910940377222822752
+    second: Ending credit_9
+  - first:
+      213: 1568159239976941220
+    second: Ending credit_10
+  - first:
+      213: -4113232032946881320
+    second: Ending credit_11
+  - first:
+      213: -6923644131624287997
+    second: Ending credit_12
+  - first:
+      213: -6027787026065093098
+    second: Ending credit_13
+  - first:
+      213: -6412742839443262899
+    second: Ending credit_14
+  - first:
+      213: 51263509583437110
+    second: Ending credit_15
+  - first:
+      213: 5267178904892666215
+    second: Ending credit_16
+  - first:
+      213: -6659031864458061300
+    second: Ending credit_17
+  - first:
+      213: -5354403204376015411
+    second: Ending credit_18
+  - first:
+      213: 3097909291687637069
+    second: Ending credit_19
+  - first:
+      213: -7804658562803484142
+    second: Ending credit_20
+  - first:
+      213: -6658303691698676728
+    second: Ending credit_21
+  - first:
+      213: -6527630375345278662
+    second: Ending credit_22
+  - first:
+      213: -6505897115330495727
+    second: Ending credit_23
+  - first:
+      213: 7606568715859922116
+    second: Ending credit_24
+  - first:
+      213: 5770481892002638484
+    second: Ending credit_25
+  - first:
+      213: 5767477432691449789
+    second: Ending credit_26
+  - first:
+      213: 5507113410304087853
+    second: Ending credit_27
+  - first:
+      213: 7672017333824874338
+    second: Ending credit_28
+  - first:
+      213: 6632842579406424811
+    second: Ending credit_29
+  - first:
+      213: -8887214060699439135
+    second: Ending credit_30
+  - first:
+      213: -625001914634666526
+    second: Ending credit_31
+  - first:
+      213: -7348146414845541328
+    second: Ending credit_32
+  - first:
+      213: -2188981198812554357
+    second: Ending credit_33
+  - first:
+      213: -728430683636488305
+    second: Ending credit_34
+  - first:
+      213: -8027531966607596194
+    second: Ending credit_35
+  - first:
+      213: -4807522313555376272
+    second: Ending credit_36
+  - first:
+      213: -5538389717788932399
+    second: Ending credit_37
+  - first:
+      213: -3564309305293378212
+    second: Ending credit_38
+  - first:
+      213: 3209868588107052006
+    second: Ending credit_39
+  - first:
+      213: 5542764844264426729
+    second: Ending credit_40
+  - first:
+      213: -5301655595619425022
+    second: Ending credit_41
+  - first:
+      213: 1071474762168462605
+    second: Ending credit_42
+  - first:
+      213: 9126984757206336566
+    second: Ending credit_43
+  - first:
+      213: -8588865355025723952
+    second: Ending credit_44
+  - first:
+      213: -4608926393082901194
+    second: Ending credit_45
+  - first:
+      213: 8816702578782799290
+    second: Ending credit_46
+  - first:
+      213: 1818223382952337114
+    second: Ending credit_47
+  - first:
+      213: 3954180137181999564
+    second: Ending credit_48
+  - first:
+      213: -1692439645463774403
+    second: Ending credit_49
+  - first:
+      213: -7158826341619496821
+    second: Ending credit_50
+  - first:
+      213: -7204209038711062217
+    second: Ending credit_51
+  - first:
+      213: 8273007956985640809
+    second: Ending credit_52
+  - first:
+      213: -505611782283215110
+    second: Ending credit_53
+  - first:
+      213: 2641471547415009107
+    second: Ending credit_54
+  - first:
+      213: -4563710066301007220
+    second: Ending credit_55
+  - first:
+      213: -7004006548124105267
+    second: Ending credit_56
+  - first:
+      213: -8796246500534899511
+    second: Ending credit_57
+  - first:
+      213: 8272228567495413824
+    second: Ending credit_58
+  - first:
+      213: 1529429718747455172
+    second: Ending credit_59
+  - first:
+      213: 2820185228670803715
+    second: Ending credit_60
+  - first:
+      213: -2235386036249897459
+    second: Ending credit_61
+  - first:
+      213: -769465937851417713
+    second: Ending credit_62
+  - first:
+      213: 888922706704381206
+    second: Ending credit_63
+  - first:
+      213: 7830394150946486895
+    second: Ending credit_64
+  - first:
+      213: -8041141463862015209
+    second: Ending credit_65
+  - first:
+      213: 6940573433419008279
+    second: Ending credit_66
+  - first:
+      213: 858090165467667695
+    second: Ending credit_67
+  - first:
+      213: -2124774345021990186
+    second: Ending credit_68
+  - first:
+      213: 8184979105257534534
+    second: Ending credit_69
+  - first:
+      213: -4542972031697928964
+    second: Ending credit_70
+  - first:
+      213: 5381944333645717276
+    second: Ending credit_71
+  - first:
+      213: -7555858701497146880
+    second: Ending credit_72
+  - first:
+      213: 4808762345572433523
+    second: Ending credit_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ending credit_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 154
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc241515e4b68df70800000000000000
+      internalID: 9212231021902250701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 154
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa000fdf332da16e0800000000000000
+      internalID: -1865947974846119761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 153
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4a3c52888caa150800000000000000
+      internalID: 5884736350187660498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 154
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26754db97b622e840800000000000000
+      internalID: 5251802685502674786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_4
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 166
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fce436aa345cb8a0800000000000000
+      internalID: -6288058368842732303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 154
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c350fb7f5f36dc0800000000000000
+      internalID: -3646800828829451165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_6
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 149
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7639bd8a2345d6ae0800000000000000
+      internalID: -1554493719814892697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_7
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 153
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7feb2747fd4441650800000000000000
+      internalID: 6202658313318088439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 154
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d053c92d94d3a9a90800000000000000
+      internalID: -7306460058179848947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_9
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 154
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b35baa9dcb56820800000000000000
+      internalID: 2910940377222822752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_10
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 153
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a67212358833c510800000000000000
+      internalID: 1568159239976941220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_11
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 154
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc7175424ddae6c0800000000000000
+      internalID: -4113232032946881320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_12
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 166
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301015768564aef90800000000000000
+      internalID: -6923644131624287997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_13
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 154
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e8ea9e2aff85ca0800000000000000
+      internalID: -6027787026065093098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42fd0b1d5c5107a0800000000000000
+      internalID: -6412742839443262899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_15
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 66
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d19aee3ef16b000800000000000000
+      internalID: 51263509583437110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 67
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761fe8aae47c81940800000000000000
+      internalID: 5267178904892666215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 66
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a58f2eccd5693a0800000000000000
+      internalID: -6659031864458061300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_18
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 67
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd44fa87a651b5b0800000000000000
+      internalID: -5354403204376015411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_19
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 66
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d407c6d561cfdfa20800000000000000
+      internalID: 3097909291687637069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 66
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a33e2536840b390800000000000000
+      internalID: -7804658562803484142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_21
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cd0a1d114f893a0800000000000000
+      internalID: -6658303691698676728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_22
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 66
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31be7c22c23965a0800000000000000
+      internalID: -6527630375345278662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_23
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 67
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bbc771b0966b5a0800000000000000
+      internalID: -6505897115330495727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_24
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 66
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc0e6c12f5ff8960800000000000000
+      internalID: 7606568715859922116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_25
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 66
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a24ab15bed41050800000000000000
+      internalID: 5770481892002638484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_26
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 66
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfd7a9ea223a0050800000000000000
+      internalID: 5767477432691449789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_27
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 67
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2717fef7723d6c40800000000000000
+      internalID: 5507113410304087853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2676545fd1b787a60800000000000000
+      internalID: 7672017333824874338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_29
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 51
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea0b940f279c0c50800000000000000
+      internalID: 6632842579406424811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_30
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 51
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef2725f5e54aa480800000000000000
+      internalID: -8887214060699439135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 48
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2edf24ee11c8357f0800000000000000
+      internalID: -625001914634666526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_32
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 52
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 034429194c3260a90800000000000000
+      internalID: -7348146414845541328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_33
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 48
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bd4c8823d2f91e0800000000000000
+      internalID: -2188981198812554357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_34
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 51
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f872a52172814e5f0800000000000000
+      internalID: -728430683636488305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 52
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55e243453a789090800000000000000
+      internalID: -8027531966607596194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_36
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 51
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07784ca5def384db0800000000000000
+      internalID: -4807522313555376272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_37
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 50
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6c38335efa323b0800000000000000
+      internalID: -5538389717788932399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_38
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 52
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d6e544297098ec0800000000000000
+      internalID: -3564309305293378212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_39
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 51
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e33ec9697ebb8c20800000000000000
+      internalID: 3209868588107052006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_40
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 51
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec87ef424bdbec40800000000000000
+      internalID: 5542764844264426729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_41
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 51
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20564ad335cbc66b0800000000000000
+      internalID: -5301655595619425022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_42
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 52
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0de8d88e94aede00800000000000000
+      internalID: 1071474762168462605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63440b3a74099ae70800000000000000
+      internalID: 9126984757206336566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_44
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 35
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd480227783ec880800000000000000
+      internalID: -8588865355025723952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_45
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 36
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d0f585dddc900c0800000000000000
+      internalID: -4608926393082901194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_46
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 35
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab58e9258483b5a70800000000000000
+      internalID: 8816702578782799290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_47
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 35
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adede2f8880ab3910800000000000000
+      internalID: 1818223382952337114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_48
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 35
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc173a672e110e630800000000000000
+      internalID: 3954180137181999564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_49
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bf7500c1f3388e0800000000000000
+      internalID: -1692439645463774403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_50
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 35
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b888f031f5db6ac90800000000000000
+      internalID: -7158826341619496821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_51
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 32
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73108ff7c02850c90800000000000000
+      internalID: -7204209038711062217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_52
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 35
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967fb1497e0afc270800000000000000
+      internalID: 8273007956985640809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 19
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afeb1ca43c4bbf8f0800000000000000
+      internalID: -505611782283215110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_54
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 19
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35719f3906468a420800000000000000
+      internalID: 2641471547415009107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_55
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 16
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a0140dfd17aa0c0800000000000000
+      internalID: -4563710066301007220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_56
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 19
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc58d8e3725ccce90800000000000000
+      internalID: -7004006548124105267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_57
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 19
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc28da89647de580800000000000000
+      internalID: -8796246500534899511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_58
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 19
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0401762dd0cdcc270800000000000000
+      internalID: 8272228567495413824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_59
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 19
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce1ed6d930a93510800000000000000
+      internalID: 1529429718747455172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_60
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 16
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f1ab3068f432720800000000000000
+      internalID: 2820185228670803715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_61
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 20
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06d47d5e305af0e0800000000000000
+      internalID: -2235386036249897459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_62
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 19
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b7a9b6ece4255f0800000000000000
+      internalID: -769465937851417713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_63
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 19
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615b4e5fd76165c00800000000000000
+      internalID: 888922706704381206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_64
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 19
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a367a3ef52bac60800000000000000
+      internalID: 7830394150946486895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_65
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 19
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b07d14170286090800000000000000
+      internalID: -8041141463862015209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_66
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 18
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7190474d3ced15060800000000000000
+      internalID: 6940573433419008279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_67
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 16
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecd4f9857c88eb00800000000000000
+      internalID: 858090165467667695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_68
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 19
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dad911adf84382e0800000000000000
+      internalID: -2124774345021990186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 39
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644bede5123e69170800000000000000
+      internalID: 8184979105257534534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_70
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 5
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc3c12c10f14f0c0800000000000000
+      internalID: -4542972031697928964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_71
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 4
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f11ef4bd180ba40800000000000000
+      internalID: 5381944333645717276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_72
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 4
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002e73c2b82342790800000000000000
+      internalID: -7555858701497146880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ending credit_73
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e7e1910e72cb240800000000000000
+      internalID: 4808762345572433523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Ending credit_0: 9212231021902250701
+      Ending credit_1: -1865947974846119761
+      Ending credit_10: 1568159239976941220
+      Ending credit_11: -4113232032946881320
+      Ending credit_12: -6923644131624287997
+      Ending credit_13: -6027787026065093098
+      Ending credit_14: -6412742839443262899
+      Ending credit_15: 51263509583437110
+      Ending credit_16: 5267178904892666215
+      Ending credit_17: -6659031864458061300
+      Ending credit_18: -5354403204376015411
+      Ending credit_19: 3097909291687637069
+      Ending credit_2: 5884736350187660498
+      Ending credit_20: -7804658562803484142
+      Ending credit_21: -6658303691698676728
+      Ending credit_22: -6527630375345278662
+      Ending credit_23: -6505897115330495727
+      Ending credit_24: 7606568715859922116
+      Ending credit_25: 5770481892002638484
+      Ending credit_26: 5767477432691449789
+      Ending credit_27: 5507113410304087853
+      Ending credit_28: 7672017333824874338
+      Ending credit_29: 6632842579406424811
+      Ending credit_3: 5251802685502674786
+      Ending credit_30: -8887214060699439135
+      Ending credit_31: -625001914634666526
+      Ending credit_32: -7348146414845541328
+      Ending credit_33: -2188981198812554357
+      Ending credit_34: -728430683636488305
+      Ending credit_35: -8027531966607596194
+      Ending credit_36: -4807522313555376272
+      Ending credit_37: -5538389717788932399
+      Ending credit_38: -3564309305293378212
+      Ending credit_39: 3209868588107052006
+      Ending credit_4: -6288058368842732303
+      Ending credit_40: 5542764844264426729
+      Ending credit_41: -5301655595619425022
+      Ending credit_42: 1071474762168462605
+      Ending credit_43: 9126984757206336566
+      Ending credit_44: -8588865355025723952
+      Ending credit_45: -4608926393082901194
+      Ending credit_46: 8816702578782799290
+      Ending credit_47: 1818223382952337114
+      Ending credit_48: 3954180137181999564
+      Ending credit_49: -1692439645463774403
+      Ending credit_5: -3646800828829451165
+      Ending credit_50: -7158826341619496821
+      Ending credit_51: -7204209038711062217
+      Ending credit_52: 8273007956985640809
+      Ending credit_53: -505611782283215110
+      Ending credit_54: 2641471547415009107
+      Ending credit_55: -4563710066301007220
+      Ending credit_56: -7004006548124105267
+      Ending credit_57: -8796246500534899511
+      Ending credit_58: 8272228567495413824
+      Ending credit_59: 1529429718747455172
+      Ending credit_6: -1554493719814892697
+      Ending credit_60: 2820185228670803715
+      Ending credit_61: -2235386036249897459
+      Ending credit_62: -769465937851417713
+      Ending credit_63: 888922706704381206
+      Ending credit_64: 7830394150946486895
+      Ending credit_65: -8041141463862015209
+      Ending credit_66: 6940573433419008279
+      Ending credit_67: 858090165467667695
+      Ending credit_68: -2124774345021990186
+      Ending credit_69: 8184979105257534534
+      Ending credit_7: 6202658313318088439
+      Ending credit_70: -4542972031697928964
+      Ending credit_71: 5381944333645717276
+      Ending credit_72: -7555858701497146880
+      Ending credit_73: 4808762345572433523
+      Ending credit_8: -7306460058179848947
+      Ending credit_9: 2910940377222822752
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
